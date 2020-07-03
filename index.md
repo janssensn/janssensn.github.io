@@ -1,5 +1,7 @@
 # Das ist der Titel meiner neuen Seite über Matt Damon
 
+<img src="https://en.wikipedia.org/wiki/Matt_Damon#/media/File:Damon_cropped.jpg">
+
 Matthew Paige Damon (/ˈdeɪmən/; born October 8, 1970)[3] is an American actor, film producer, screenwriter and philanthropist. He is ranked among Forbes magazine's most bankable stars[4] and is one of the highest-grossing actors of all time.[5][nb 1] Damon has received various accolades, including an Academy Award from five nominations, two Golden Globe Awards from eight nominations, and has been nominated for three British Academy Film Awards and seven Emmy Awards.
 
 Born and raised in Cambridge, Massachusetts, Damon began his acting career by appearing in high school theater productions. He made his professional acting debut in the film Mystic Pizza (1988). He came to prominence in 1997, when he wrote and starred in Good Will Hunting, alongside Ben Affleck, which won them the Academy and Golden Globe awards for Best Screenplay and earned Damon a nomination for the Academy Award for Best Actor. He continued to garner praise from critics for his roles as the eponymous character in Saving Private Ryan (1998), the antihero in The Talented Mr. Ripley (1999), a fallen angel in Dogma (1999) and Jay and Silent Bob Reboot (2019), an energy analyst in Syriana (2005), and a corrupt Irish-American police officer in The Departed (2006). In 2019 he starred as race car driver and designer Carroll Shelby in James Mangold's Ford v Ferrari.
