@@ -13,3 +13,7 @@ In addition to acting in films, Damon has performed voice-over work in both anim
 * Famous and well-respected actor
 * Along with Ben Affleck and producers Chris Moore and Sean Bailey, Damon founded the production company LivePlanet.
 * He has been involved in charitable work, including One Campaign, H2O Africa Foundation, Feeding America, and Water.org.
+
+## His quote about Berlin
+
+> "Berlin ist super, mal benutzen wir es als Berlin, mal als Moskau."
