@@ -16,4 +16,4 @@ In addition to acting in films, Damon has performed voice-over work in both anim
 
 ## His quote about Berlin
 
-> "Berlin ist super, mal benutzen wir es als Berlin, mal als Moskau."
+> Berlin ist super, mal benutzen wir es als Berlin, mal als Moskau.
