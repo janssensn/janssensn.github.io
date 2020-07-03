@@ -1,6 +1,6 @@
 # Das ist der Titel meiner neuen Seite über Matt Damon
 
-<img src="https://en.wikipedia.org/wiki/Matt_Damon#/media/File:Damon_cropped.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Damon_cropped.jpg">
 
 Matthew Paige Damon (/ˈdeɪmən/; born October 8, 1970)[3] is an American actor, film producer, screenwriter and philanthropist. He is ranked among Forbes magazine's most bankable stars[4] and is one of the highest-grossing actors of all time.[5][nb 1] Damon has received various accolades, including an Academy Award from five nominations, two Golden Globe Awards from eight nominations, and has been nominated for three British Academy Film Awards and seven Emmy Awards.
 
